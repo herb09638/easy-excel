@@ -14,6 +14,12 @@
     "spreadsheet",
     "stream"
   ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/herb09638/openspout"
+        }
+    ],
   "license": "MIT",
   "homepage": "https://github.com/jqhph/easy-excel",
   "authors": [
@@ -24,7 +30,7 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "openspout/openspout": "~3",
+    "openspout/openspout": "3.x-dev",
     "league/flysystem": "~1|~2|~3"
   },
   "require-dev": {
