@@ -24,7 +24,7 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "box/spout": "~3",
+    "openspout/openspout": "~3",
     "league/flysystem": "~1|~2|~3"
   },
   "require-dev": {
